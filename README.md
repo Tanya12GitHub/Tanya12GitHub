@@ -1,3 +1,5 @@
+![logo](https://github.com/Tanya12GitHub/Tanya12GitHub/blob/main/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+
 <h1 align="center">Hi 👋, I'm Tanya Singh</h1>
 <h3 align="center">A passionate Software developer and currently a Computer Science Undergrad looking forward to new Opportunities.</h3>
 <img align="right" alt="coding" width=400px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrwqW5wLakmadcU1ReR6kjyE3M2XeJp07VOASwPFq9A&s">
